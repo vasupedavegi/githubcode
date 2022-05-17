@@ -1,0 +1,4 @@
+main
+{ 
+if print("hai")
+}
